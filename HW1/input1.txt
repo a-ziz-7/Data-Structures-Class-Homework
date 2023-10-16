@@ -1,0 +1,11 @@
+Customer Number   First Name   Last Name   Balance
+
+1116 Tomas Smith 5320.52
+1313 Aziz Abd 1299
+2648 Robert Tiger 1156.65
+2648 Nice Try 0.0
+4882 Katy Brown 7000.46
+7920 Rebecca Alen 10.4
+8431 Katy Brown 294.5
+9341 Erl Ken 0.0
+9898 Ben Node 2351.23
