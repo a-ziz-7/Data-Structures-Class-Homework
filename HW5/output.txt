@@ -1,0 +1,608 @@
+General Tree 1
+              A
+     B        C          D
+  E     F                I
+        G
+        H
+
+Binary Tree 1
+          A
+        /
+       B
+     /   \
+    E      C
+     \      \
+      F      D
+     /      /
+    G      I
+   /
+  H
+-----------------------------------------------------------
+Output:
+
+Tree number 1
+Node: A
+Sons:
+B
+C
+D
+Father:
+Does not have a father
+Brothers:
+Does not have brothers
+The oldest brother in the family:
+Does not have brothers
+The youngest brother in the family:
+Does not have brothers
+the oldest son:
+B
+the youngest son:
+D
+Grandfather:
+Does not have a grandfather
+Uncles:
+Does not have uncles
+
+-------------------------------------------
+-------------------------------------------
+
+Node: B
+Sons:
+E
+F
+Father:
+A
+Brothers:
+C
+D
+The oldest brother in the family:
+B
+The youngest brother in the family:
+D
+the oldest son:
+E
+the youngest son:
+F
+Grandfather:
+Does not have a grandfather
+Uncles:
+Does not have uncles
+
+-------------------------------------------
+-------------------------------------------
+
+Node: E
+Sons:
+Does not have any
+Father:
+B
+Brothers:
+F
+The oldest brother in the family:
+E
+The youngest brother in the family:
+F
+the oldest son:
+Does not have the oldest son
+the youngest son:
+Does not have the youngest son
+Grandfather:
+A
+Uncles:
+C
+D
+
+-------------------------------------------
+-------------------------------------------
+
+Node: F
+Sons:
+G
+Father:
+B
+Brothers:
+E
+The oldest brother in the family:
+E
+The youngest brother in the family:
+F
+the oldest son:
+G
+the youngest son:
+G
+Grandfather:
+A
+Uncles:
+C
+D
+
+-------------------------------------------
+-------------------------------------------
+
+Node: G
+Sons:
+H
+Father:
+F
+Brothers:
+Does not have any
+The oldest brother in the family:
+G
+The youngest brother in the family:
+G
+the oldest son:
+H
+the youngest son:
+H
+Grandfather:
+B
+Uncles:
+E
+
+-------------------------------------------
+-------------------------------------------
+
+Node: H
+Sons:
+Does not have any
+Father:
+G
+Brothers:
+Does not have any
+The oldest brother in the family:
+H
+The youngest brother in the family:
+H
+the oldest son:
+Does not have the oldest son
+the youngest son:
+Does not have the youngest son
+Grandfather:
+F
+Uncles:
+Does not have any
+
+-------------------------------------------
+-------------------------------------------
+
+Node: C
+Sons:
+Does not have any
+Father:
+A
+Brothers:
+B
+D
+The oldest brother in the family:
+B
+The youngest brother in the family:
+D
+the oldest son:
+Does not have the oldest son
+the youngest son:
+Does not have the youngest son
+Grandfather:
+Does not have a grandfather
+Uncles:
+Does not have uncles
+
+-------------------------------------------
+-------------------------------------------
+
+Node: D
+Sons:
+I
+Father:
+A
+Brothers:
+B
+C
+The oldest brother in the family:
+B
+The youngest brother in the family:
+D
+the oldest son:
+I
+the youngest son:
+I
+Grandfather:
+Does not have a grandfather
+Uncles:
+Does not have uncles
+
+-------------------------------------------
+-------------------------------------------
+
+Node: I
+Sons:
+Does not have any
+Father:
+D
+Brothers:
+Does not have any
+The oldest brother in the family:
+I
+The youngest brother in the family:
+I
+the oldest son:
+Does not have the oldest son
+the youngest son:
+Does not have the youngest son
+Grandfather:
+A
+Uncles:
+B
+C
+
+-------------------------------------------
+-------------------------------------------
+
+Tree number 2
+Node: A
+Sons:
+B
+C
+D
+E
+Father:
+Does not have a father
+Brothers:
+Does not have brothers
+The oldest brother in the family:
+Does not have brothers
+The youngest brother in the family:
+Does not have brothers
+the oldest son:
+B
+the youngest son:
+E
+Grandfather:
+Does not have a grandfather
+Uncles:
+Does not have uncles
+
+-------------------------------------------
+-------------------------------------------
+
+Node: B
+Sons:
+F
+G
+Father:
+A
+Brothers:
+C
+D
+E
+The oldest brother in the family:
+B
+The youngest brother in the family:
+E
+the oldest son:
+F
+the youngest son:
+G
+Grandfather:
+Does not have a grandfather
+Uncles:
+Does not have uncles
+
+-------------------------------------------
+-------------------------------------------
+
+Node: F
+Sons:
+K
+Father:
+B
+Brothers:
+G
+The oldest brother in the family:
+F
+The youngest brother in the family:
+G
+the oldest son:
+K
+the youngest son:
+K
+Grandfather:
+A
+Uncles:
+C
+D
+E
+
+-------------------------------------------
+-------------------------------------------
+
+Node: K
+Sons:
+O
+Father:
+F
+Brothers:
+Does not have any
+The oldest brother in the family:
+K
+The youngest brother in the family:
+K
+the oldest son:
+O
+the youngest son:
+O
+Grandfather:
+B
+Uncles:
+G
+
+-------------------------------------------
+-------------------------------------------
+
+Node: O
+Sons:
+Does not have any
+Father:
+K
+Brothers:
+Does not have any
+The oldest brother in the family:
+O
+The youngest brother in the family:
+O
+the oldest son:
+Does not have the oldest son
+the youngest son:
+Does not have the youngest son
+Grandfather:
+F
+Uncles:
+Does not have any
+
+-------------------------------------------
+-------------------------------------------
+
+Node: G
+Sons:
+Does not have any
+Father:
+B
+Brothers:
+F
+The oldest brother in the family:
+F
+The youngest brother in the family:
+G
+the oldest son:
+Does not have the oldest son
+the youngest son:
+Does not have the youngest son
+Grandfather:
+A
+Uncles:
+C
+D
+E
+
+-------------------------------------------
+-------------------------------------------
+
+Node: C
+Sons:
+H
+Father:
+A
+Brothers:
+B
+D
+E
+The oldest brother in the family:
+B
+The youngest brother in the family:
+E
+the oldest son:
+H
+the youngest son:
+H
+Grandfather:
+Does not have a grandfather
+Uncles:
+Does not have uncles
+
+-------------------------------------------
+-------------------------------------------
+
+Node: H
+Sons:
+L
+M
+Father:
+C
+Brothers:
+Does not have any
+The oldest brother in the family:
+H
+The youngest brother in the family:
+H
+the oldest son:
+L
+the youngest son:
+M
+Grandfather:
+A
+Uncles:
+B
+D
+E
+
+-------------------------------------------
+-------------------------------------------
+
+Node: L
+Sons:
+Does not have any
+Father:
+H
+Brothers:
+M
+The oldest brother in the family:
+L
+The youngest brother in the family:
+M
+the oldest son:
+Does not have the oldest son
+the youngest son:
+Does not have the youngest son
+Grandfather:
+C
+Uncles:
+Does not have any
+
+-------------------------------------------
+-------------------------------------------
+
+Node: M
+Sons:
+Does not have any
+Father:
+H
+Brothers:
+L
+The oldest brother in the family:
+L
+The youngest brother in the family:
+M
+the oldest son:
+Does not have the oldest son
+the youngest son:
+Does not have the youngest son
+Grandfather:
+C
+Uncles:
+Does not have any
+
+-------------------------------------------
+-------------------------------------------
+
+Node: D
+Sons:
+Does not have any
+Father:
+A
+Brothers:
+B
+C
+E
+The oldest brother in the family:
+B
+The youngest brother in the family:
+E
+the oldest son:
+Does not have the oldest son
+the youngest son:
+Does not have the youngest son
+Grandfather:
+Does not have a grandfather
+Uncles:
+Does not have uncles
+
+-------------------------------------------
+-------------------------------------------
+
+Node: E
+Sons:
+I
+J
+Father:
+A
+Brothers:
+B
+C
+D
+The oldest brother in the family:
+B
+The youngest brother in the family:
+E
+the oldest son:
+I
+the youngest son:
+J
+Grandfather:
+Does not have a grandfather
+Uncles:
+Does not have uncles
+
+-------------------------------------------
+-------------------------------------------
+
+Node: I
+Sons:
+Does not have any
+Father:
+E
+Brothers:
+J
+The oldest brother in the family:
+I
+The youngest brother in the family:
+J
+the oldest son:
+Does not have the oldest son
+the youngest son:
+Does not have the youngest son
+Grandfather:
+A
+Uncles:
+B
+C
+D
+
+-------------------------------------------
+-------------------------------------------
+
+Node: J
+Sons:
+N
+Father:
+E
+Brothers:
+I
+The oldest brother in the family:
+I
+The youngest brother in the family:
+J
+the oldest son:
+N
+the youngest son:
+N
+Grandfather:
+A
+Uncles:
+B
+C
+D
+
+-------------------------------------------
+-------------------------------------------
+
+Node: N
+Sons:
+Does not have any
+Father:
+J
+Brothers:
+Does not have any
+The oldest brother in the family:
+N
+The youngest brother in the family:
+N
+the oldest son:
+Does not have the oldest son
+the youngest son:
+Does not have the youngest son
+Grandfather:
+E
+Uncles:
+I
+
+-------------------------------------------
+-------------------------------------------
