@@ -1,0 +1,56 @@
+145 Oak wood widgets requested:
+-> 145 at 4.200 each     Sales: $ 609.000
+                         Total Sold: 145
+                         Total Sale: $ 609.000
+
+75  Cherry Maple wood widgets requested:
+-> 75  at 7.000 each     Sales: $ 525.000
+                         Total Sold: 75
+                         Total Sale: $ 525.000
+
+180 Oak wood widgets requested:
+-> 5   at 4.200 each     Sales: $ 21.000          
+-> 50  at 8.400 each     Sales: $ 420.000          
+   Remainder of 125 pieces of Oak wood not available
+                         Total Sold: 55
+                         Total Sale: $ 441.000
+
+50  Cherry Maple wood widgets requested:
+-> 50  at 4.900 each     Sales: $ 245.000     30.0% discount applied
+                         Total Sold: 50
+                         Total Sale: $ 245.000
+
+30  Oak wood widgets requested:
+-> 30  at 12.600 each    Sales: $ 378.000
+                         Total Sold: 30
+                         Total Sale: $ 378.000
+
+60  Oak wood widgets requested:
+-> 10  at 12.600 each    Sales: $ 126.000          
+-> 50  at 15.400 each    Sales: $ 770.000
+                         Total Sold: 60
+                         Total Sale: $ 896.000
+
+100 Oak wood widgets requested:
+-> 100 at 7.700 each     Sales: $ 770.000     50.0% discount applied
+                         Total Sold: 100
+                         Total Sale: $ 770.000
+
+70  Cherry Maple wood widgets requested:
+-> 5   at 7.000 each     Sales: $ 35.000
+-> 50  at 9.800 each     Sales: $ 490.000
+-> 15  at 11.200 each    Sales: $ 168.000
+                         Total Sold: 70
+                         Total Sale: $ 693.000
+
+175 Oak wood widgets requested:
+-> 115 at 15.400 each    Sales: $ 1771.000          
+   Remainder of 60 pieces of Oak wood not available
+                         Total Sold: 115
+                         Total Sale: $ 1771.000
+
+50  Oak wood widgets requested:
+-> 50  at 21.000 each    Sales: $ 1050.000
+                         Total Sold: 50
+                         Total Sale: $ 1050.000
+
